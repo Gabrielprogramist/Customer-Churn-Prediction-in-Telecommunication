@@ -1,0 +1,2 @@
+# Customer Churn Prediction in Telecommunication
+ The main task of customer churn prediction is to estimate subscribers who may want to leave from a company and provide solutions to prevent possible churnes. In recent years, estimating churners before they leave has become valuable in the environment of increased competition among companies. The research in this paper was done to estimate what clustering algorithms are appropriate for the dataset of churn prediction and metrics that show the level of implementation of clustering algorithms.
